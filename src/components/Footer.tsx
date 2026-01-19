@@ -103,10 +103,10 @@ export default function Footer() {
         <div className="border-t border-white/10 pt-8">
           <div className="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm text-center md:text-left">
-              © 2024 KiwiBites Restaurant. All rights reserved. All prices in NZD, GST included.
+              © 2026 KiwiBites Restaurant. All rights reserved. All prices in NZD, GST included.
             </p>
             <p className="text-gray-400 text-sm flex items-center">
-              Made with <Heart className="w-4 h-4 text-[#FF6B35] mx-1 fill-current" /> in Auckland, NZ
+              Developed By WebX Tech Solutions
             </p>
           </div>
         </div>
